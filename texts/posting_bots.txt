@@ -1,0 +1,10 @@
+Боты для постинга публикаций:
+
+1) @pumpDog_bot
+2) @BaslayBot
+3) @NotepostBot
+4) @FleepBot
+5) @telepostbot
+6) @AdmakerBot
+7) @ControllerBot
+8) @QuickQueue_bot

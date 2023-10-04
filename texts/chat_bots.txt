@@ -1,0 +1,8 @@
+Боты для чата:
+
+1) @GroupHelpBot
+2) @chatkeeperbot
+3) @Combot
+4) @angrymoderbot
+5) @GroupButler_bot
+6) @fovbot

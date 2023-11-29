@@ -80,11 +80,11 @@ bot.hears('👷‍♂Биржи труда', ctx => {
     ctx.reply(fs.readFileSync('texts/labors.txt', 'utf8'))
 })
 
-bot.hears('⚖️ Биржи по продаже каналов', ctx => {
+bot.hears('⚖️Биржи по продаже каналов', ctx => {
     ctx.reply(fs.readFileSync('texts/sell_channels.txt', 'utf8'))
 })
 
-bot.hears('💼 Тематические чаты', ctx => {
+bot.hears('💼Тематические чаты', ctx => {
     ctx.reply('Выберите один из чатов', getChats())
 })
 
